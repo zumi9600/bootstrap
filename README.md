@@ -1,2 +1,1 @@
-# bootstrap
-Wesbite made in bootstrap
+TinDog Starting Files
